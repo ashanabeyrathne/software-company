@@ -97,3 +97,49 @@ nav ul a {
 nav ul a:hover {
     color: brown;
 }
+
+div.introduct {
+    width: 970px;
+    margin: 15px;
+}
+
+.introductimage {
+    float: right;
+    width: 410px;
+}
+
+.introducttxt {
+     width: 590px;
+     float: left;
+     margin-top: -350px;
+}
+
+div.introducttxt h1 {
+    font-size: 75px;
+    text-transform: uppercase;
+}
+
+div.introducttxt button {
+    text-transform: uppercase;
+    float: left;
+    margin: 20px 2px;
+  
+}
+
+div.introducttxt button:hover {
+    background: brown;
+}
+
+div.homecontent {
+    width: 1000px;
+    background: #eee;
+
+}
+
+div.homecolo {
+    width: 313.333px;
+    float: left;
+    height: 100px;
+    background: rgb(114, 81, 81);
+    margin-left: 15px;
+}
